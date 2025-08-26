@@ -6,12 +6,11 @@ It provides a step-by-step implementation in Jupyter Notebook (`Disease_Predicto
 ---
 
 ## 📌 Features
-- 📊 Data loading and preprocessing from Kaggle datasets.  
-- 🧹 Handles missing values and feature selection.  
-- 🔍 Exploratory Data Analysis (EDA).  
-- 🤖 Model training with multiple algorithms (Logistic Regression, Random Forest, etc.).  
-- 📈 Model evaluation with accuracy, confusion matrix, and feature importance.  
-- 📝 User input support for custom predictions.  
+- Data loading and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Model training (Logistic Regression, Random Forest, etc.)  
+- Model evaluation with accuracy, confusion matrix, and feature importance  
+- Save and reuse trained models  
 
 ---
 
