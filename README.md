@@ -27,3 +27,8 @@ It provides a step-by-step implementation in Jupyter Notebook (`Disease_Predicto
 ---
 
 ## 📂 Project Structure
+📦 Heart-Disease-Predictor
+ ┣ 📜 Disease_Predictor.ipynb   # Main notebook
+ ┣ 📜 requirements.txt          # Dependencies
+ ┗ 📜 README.md                 # Documentation
+
